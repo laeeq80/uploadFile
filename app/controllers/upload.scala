@@ -16,7 +16,7 @@ object upload extends Controller {
         extension = filename.substring(i + 1)
       }
       if (extension == "pdbqt") {
-        receptorFile.ref.moveTo(new File(s"/home/laeeq/Desktop/Backup/Project5/uploadFile/temp/$filename"))
+        receptorFile.ref.moveTo(new File(s"/var/lib/mysql/data/$filename"))
         Ok("File " + filename + " successfully uploaded."  + " Please go back and continue with target profiles or close the window.")
       } else {
         BadRequest("Wrong Format. PTPAAS only supports .pdbqt")

@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /home/laeeq/Desktop/Backup/Project5/uploadFile/target/scala-2.10/uploadfile_2.10-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /home/laeeq/Desktop/Backup/Project5/uploadFile/conf/routes[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /home/laeeq/Desktop/Backup/Project5/uploadFile/conf/application.conf[0m
+[0m[[0mdebug[0m] [0m	controllers/upload.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/laeeq/Desktop/Backup/Project5/uploadFile/app/controllers/upload.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
